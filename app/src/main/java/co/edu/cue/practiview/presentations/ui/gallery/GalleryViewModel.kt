@@ -1,4 +1,4 @@
-package co.edu.cue.practiview.ui.gallery
+package co.edu.cue.practiview.presentations.ui.gallery
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

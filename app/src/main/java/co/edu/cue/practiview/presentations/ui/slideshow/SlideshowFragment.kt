@@ -1,4 +1,4 @@
-package co.edu.cue.practiview.ui.slideshow
+package co.edu.cue.practiview.presentations.ui.slideshow
 
 import android.os.Bundle
 import android.view.LayoutInflater
